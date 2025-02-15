@@ -8,7 +8,7 @@
 2. [*Akademim.org*](https://akademim.org)  
    Ruby dilinde takım ile beraber çalışmasını yaptığımız dinamik bir web sitesi deneyimi.
    
-3. [*Visualizations and machine learning for the iris *](https://www.kaggle.com/code/coddercan/visualizations-and-machine-learning-for-the-iris)
+3. [*Visualizations and machine learning for the iris*](https://www.kaggle.com/code/coddercan/visualizations-and-machine-learning-for-the-iris)
 4. 
    Her biri 50 örnek içeren üç iris türünü ve her çiçeğe ilişkin bazı özellikleri içerir. Bir çiçek türü diğer ikisinden doğrusal olarak ayrılabilir, ancak diğerikisi birbirinden doğrusal olarak ayrılamaz.Bu veri seti ile keşifsel veri analizi ve görselleştirme yapmayı amaçladım.
    
